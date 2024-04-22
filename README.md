@@ -1,4 +1,4 @@
-# BootCamp01 QaulitersClub 
+# BootCamp01 QualitersClub 
 Teste de API Rest do manual CI/CD  
 
 ## O que é 
